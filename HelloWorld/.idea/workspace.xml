@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50eb7dd0-8fca-4b30-aaae-ef60ab7f2853" name="Changes" comment="" />
+    <list default="true" id="50eb7dd0-8fca-4b30-aaae-ef60ab7f2853" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cap_3_calorias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/looping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,15 +46,20 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2ec5t3MHG4gExzAuFwEawYfPMhO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.cap_3_calorias.executor": "Run",
+    "Python.looping.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/if"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
