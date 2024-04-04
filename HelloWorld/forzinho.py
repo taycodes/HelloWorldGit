@@ -1,4 +1,6 @@
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry", "lemon", "strawberry"]
+red_fruits = {"cherry", "apple"}
 
 for fruit in fruits:
-    print(fruit)
+    if fruit in red_fruits:
+        print(fruit)
